@@ -9,7 +9,7 @@ public class TimeVideo : MonoBehaviour
     public float time;
     public TMP_Text m_TextMeshPro;
 
-    public GameObject Laser;
+
     public GameObject Danger1;
     // Start is called before the first frame update
     void Start()
